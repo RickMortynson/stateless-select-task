@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+
+  width: 640px;
+  height: 300px;
+  background-color: red;
+}
+
+.container select {
+  width: calc(640px / 3 - 10px) !important;
+  margin: 0 auto 0 auto;
+  height: 2rem;
+  width: fit-content;
+}

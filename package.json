@@ -1,0 +1,11 @@
+{
+  "name": "js-ez",
+  "version": "1.0.0",
+  "description": "ez lol",
+  "main": "./dist/app.js",
+  "scripts": {
+    "tsc-write": "tsc -w"
+  },
+  "author": "",
+  "license": "ISC"
+}
